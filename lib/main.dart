@@ -64,7 +64,7 @@ class MyWidget extends StatelessWidget {
                               height: 150,
                               width: MediaQuery.of(context).size.width,
                               color: Color.fromRGBO(31, 26, 54, 1),
-                              padding: EdgeInsets.only(top: 10, left: 20),
+                              padding: EdgeInsets.only(top: 13, left: 20),
                               child: Column(
                                 mainAxisAlignment: MainAxisAlignment.start,
                                 crossAxisAlignment: CrossAxisAlignment.start,
